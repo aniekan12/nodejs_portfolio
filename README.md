@@ -8,7 +8,7 @@ a nodejs app with http modules
 * Open your code editor and run `git clone` https://github.com/aniekan12/nodejs_portfolio.git"
 
 
-## To start the server, run:
+### To start the server, run:
 
 ```
 node server/anisServer.js
